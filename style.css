@@ -1,0 +1,381 @@
+\*Google*\ @import url() * {
+}
+
+:root {
+  --snigle-font: "Sniglet", cursive;
+  --Runik: "Rubik", cursive;
+  --Patua: "Patua One", cursive;
+  --Runik: "Rubik", cursive;
+  --Runik: "Rubik", cursive;
+  --Runik: "Rubik", cursive;
+}
+
+.box {
+  background-color: rgb(255, 94, 188);
+  color: white;
+}
+
+.box .h6 {
+  text-align: center;
+
+}
+
+
+li.nav-item:last-child {
+  padding-right: 16.5em;
+}
+
+li.nav-item {
+  padding: 0.9em;
+}
+
+li.nav-item{
+  letter-spacing: 0.6vmin;
+  font-family: arial;
+}
+
+a.navbar-brand {
+  padding-left: 8rem;
+}
+
+.carousel-item {
+  border: 5px solid pink;
+  
+}
+
+.head {
+ font-size: 4vw;
+}
+
+.para{
+  font-size:1.5vw;
+ }
+
+
+.text-box {
+	position: absolute;
+	top: 55%;
+	left: 5%;
+	right: 5%;
+	color: #000;
+	transform: translateY(-50%);
+}
+
+.text-box1 {
+	position: absolute;
+	top: 55%;
+	left: 39%;
+	right: 1%;
+	color: #000;
+	transform: translateY(-50%);
+}
+
+.carousel-caption  {
+  padding: 24vmin;
+}
+
+.carousel-caption  > h1 {
+  color: rgb(0, 0, 0);
+  left: 10vmin;
+  font-size: 9vmin;
+  font-weight: bold;
+}
+
+.carousel-caption  > p {
+  color: rgb(0, 0, 0);
+  left: -12vmin;
+  font-size: 3vmin;
+}
+
+.btn-light {
+  background: rgb(255, 82, 183);
+  margin-top: 3vmin;
+  font-weight: bold;
+  color: white;
+  text-align: left;
+}
+
+
+.section-1 {
+  padding: 20vmin 0vmin;
+}
+
+.section-1 .pray img {
+  opacity: ;
+  border-radius: 0.2em;
+  position: relative;
+  top:-10vmin;
+}
+
+.section-1 .panel {
+  background-color: rgb(255, 255, 255);
+  position: relative;
+  top:-12vmin;
+  padding: 10vmin 5vmin 12vmin 10vmin;
+  box-shadow: 0px 25px 42px rgba(0, 0, 0, 0.2);
+  font-family: var(--Rubik);
+  
+}
+
+.section-2 .h1 {
+  font-size: 7vmin;
+  color:#ec5598;
+  font-family: var(--Patua);
+}
+
+.section-2 .h2 {
+  font-size: 5vmin;
+  color: rgb(0, 0, 0);
+  letter-spacing: 0.5rem;
+}
+
+.var img {
+  width: 95%;
+  position: relative;
+  top: 1vmin;
+  left: -5px;
+}
+
+.braid {
+  background: rgb(255, 255, 255);
+  text-align: left;
+  left: -18vmin;
+  padding: 13vmin 10vmin 10vmin 10vmin;
+  color: rgb(0, 0, 0);
+  font-weight: bold;
+  box-shadow: 0px 25px 42px rgba(0, 0, 0, 0.2);
+}
+
+.var h4 {
+  position: relative;
+  left: 25px;
+  margin-top: 3vmin;
+  text-align: left;
+}
+
+.var h6 {
+  position: relative;
+  left: 25px;
+  margin-top: 2vmin;
+  text-align: left;
+  color:#ec5598;
+}
+
+.var p {
+  position: relative;
+  left: 25px;
+  margin-top: 2vmin;
+  text-align: left;
+  color: rgb(0, 0, 0);
+}
+
+.col-md-7 .btn-light {
+  position: relative;
+  right: 34vmin;
+  margin-top: 2vmin;
+}
+
+.section-3 {
+  padding: 10vmin 0vmin;
+}
+
+.section-3 {
+  background-color:#ec5598;
+  width: 100%;
+  height: auto;
+  margin-top: 10vmin;
+}
+
+.circle img {
+  width: 250px;
+  height: 245px;
+  border-radius: 50%;
+  border: solid 4px white;
+  margin: 1rem;
+}
+
+.section-4 {
+  padding: 10vmin 0vmin;
+}
+
+.section-4 .h1 {
+  font-size: 7vmin;
+  color:#ec5598;
+  font-family: var(--Patua);
+}
+
+.section-4 .h2 {
+  font-size: 5vmin;
+  color: rgb(0, 0, 0);
+  letter-spacing: 0.1rem;
+}
+
+.img-1 img {
+  width: 70%;
+  position: relative;
+  left: 20vmin;
+  padding-top: 7vmin;
+}
+
+.content text-left {
+  background-color: powderblue;
+}
+
+.section-4 h5 {
+  position: relative;
+  padding-top: 7vmin;
+}
+
+.section-4 h6 {
+  position: relative;
+  padding-top: 2vmin;
+  color:#ec5598;
+}
+
+.btn-primary {
+  background:#ec5598;
+  margin-top: 2vmin;
+  font-weight: bold;
+  color: rgb(0, 0, 0);
+}
+
+.section-5 {
+  background-color: rgb(206, 203, 203);
+  width: 100%;
+  height: auto;
+}
+
+.section-5 .col-6 {
+  background-color: rgb(255, 255, 255);
+  width: 345px;
+  margin: 5rem;
+  padding: 10vmin 6vmin 12vmin 6vmin;
+  color: rgb(0, 0, 0);
+}
+
+.col-6 h6 {
+  color:#ec5598;
+  font-size: 1.5vmin;
+  margin-top: 2vmin;
+}
+
+.section-6 {
+  padding: 10vmin 0vmin;
+}
+
+.section-6 .h1 {
+  font-size: 7vmin;
+  color:#ec5598;
+  font-family: var(--Patua);
+}
+
+.section-6 .h2 {
+  font-size: 5vmin;
+  color: rgb(0, 0, 0);
+  letter-spacing: 0.1rem;
+}
+
+.section-6 .col-lg-4 {
+  width: 230px;
+}
+
+
+.clearfix  {
+  background-color: #ec5598;
+  color: white;
+}
+
+.callAction {
+  padding: 60px 0;
+  background-color: #ec5598;
+}
+
+.section-7 {
+  padding: 3vmin 0vmin;
+  height: auto;
+}
+
+.section-7 .h1 {
+  font-size: 7vmin;
+  color:#ec5598;
+  font-family: var(--Patua);
+}
+
+.section-7 .h2 {
+  font-size: 5vmin;
+  color: rgb(0, 0, 0);
+  letter-spacing: 0.1rem;
+}
+
+.section-7 .circle img {
+  width: 240px;
+  height: 240px;
+  border-radius: 50%;
+  border: solid 6px rgb(228, 225, 225);
+  margin: 1rem;
+  text-align: center;
+  box-shadow: rgb(170, 169, 169);
+
+}
+
+
+.section-8 {
+  padding: 10vmin 0vmin;
+  background-color: rgb(236, 234, 234);
+  height: auto;
+}
+
+.section-8 .h1 {
+  font-size: 7vmin;
+  color:#ec5598;
+  font-family: var(--Patua);
+  
+}
+
+.section-8 .h2 {
+  font-size: 5vmin;
+  color: rgb(0, 0, 0);
+  letter-spacing: 0.1rem;
+}
+
+.maskImage h3 {
+  margin: 0;
+  line-height: 190px;
+  font-weight: 700;
+  color: #fff;
+}
+
+
+.section-9 h1, h2, h3, h4, h5 {
+  font-family: montserrat,sans-serif;
+  text-transform: uppercase;
+  margin-top: 0;
+  font-weight: 700;
+  color: #222;
+}
+
+
+.maskImage {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 45%;
+  background-color: rgba(0,0,0,.3);
+  text-align: center;
+  transition: all .4s;
+}
+
+.footer {
+  padding: 5vmin 0vmin;
+  background-color: white;
+  height: auto;
+  margin-top: vmin;
+}
+
+.end {
+  padding: 5vmin 0vmin;
+  height: auto;
+  border-top: solid rgb(82, 82, 82) 1px;
+  border-bottom: solid rgb(82, 82, 82) 1px;
+}
