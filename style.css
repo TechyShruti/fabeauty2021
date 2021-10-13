@@ -366,10 +366,11 @@ a.navbar-brand {
   transition: all .4s;
 }
 
-.footer {
-  padding: 5vmin 0vmin;
-  background-color: white;
-  height: auto;
+footer {
+  background-image: url(home-slider-1.jpg);
+  max-width:100%;
+  padding: 10vmin 0vmin;
+  height: 500px;
   margin-top: vmin;
 }
 
