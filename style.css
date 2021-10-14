@@ -39,7 +39,7 @@ a.navbar-brand {
 }
 
 .carousel-item {
-  border: 5px solid pink;
+  border: 5px #ec5598;
   
 }
 
@@ -239,6 +239,20 @@ a.navbar-brand {
   color: rgb(0, 0, 0);
 }
 
+
+.section-5 .h1 {
+  padding-top: 6vmin;
+  font-size: 7vmin;
+  color:#ec5598;
+  font-family: var(--Patua);
+}
+
+.section-5 .h2 {
+  font-size: 5vmin;
+  color: rgb(0, 0, 0);
+  letter-spacing: 0.1rem;
+}
+
 .section-5 {
   background-color: rgb(206, 203, 203);
   width: 100%;
@@ -355,6 +369,7 @@ a.navbar-brand {
 }
 
 .section-9 .panel {
+  margin:2vmin;	
   background-color:rgb(255, 236, 236);
   color: rgb(0, 0, 0);
   padding: 10vmin 0vmin 11vmin 4vmin;
