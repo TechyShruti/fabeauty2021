@@ -39,7 +39,8 @@ a.navbar-brand {
 }
 
 .carousel-item {
-  border: 5px solid rgb(255, 31, 180);
+ border-top: 5px solid rgb(255, 31, 180);
+ border-bottom: 5px solid rgb(255, 31, 180);
   
 }
 
