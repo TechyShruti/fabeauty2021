@@ -191,7 +191,7 @@ a.navbar-brand {
   color: rgb(0, 0, 0);
 }
 
-.col-md-7 .btn-light {
+.col-md-7 btn-light {
   position: relative;
   right: 34vmin;
   margin-top: 2vmin;
