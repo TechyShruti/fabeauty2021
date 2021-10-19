@@ -87,7 +87,7 @@ a.navbar-brand {
 	position: absolute;
 	top: 55%;
 	left: 39%;
-	right: 1%;
+	right: 0%;
 	color: #000;
 	transform: translateY(-50%);
 }
