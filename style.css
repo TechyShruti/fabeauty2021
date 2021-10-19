@@ -46,6 +46,16 @@ a.navbar-brand {
 
 .head {
  font-size: 4vw;
+ color: #ec5598;
+ animation-name: example;
+ animation-duration: 4s;	
+}
+
+@keyframes example {
+  0%   {color: rgb(107, 13, 95);}
+  25%  {color: rgb(0, 228, 102);}
+  50%  {color: rgb(8, 215, 252);}
+  100% {color: rgb(245, 56, 9);}
 }
 
 .para{
