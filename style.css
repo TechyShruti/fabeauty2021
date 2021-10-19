@@ -170,14 +170,14 @@ a.navbar-brand {
 
 .var h4 {
   position: relative;
-  left: 25px;
+  text-size-adjust: ;
   margin-top: 3vmin;
   text-align: left;
 }
 
 .var h6 {
   position: relative;
-  left: 25px;
+  text-size-adjust: ;
   margin-top: 2vmin;
   text-align: left;
   color:#ec5598;
@@ -185,7 +185,7 @@ a.navbar-brand {
 
 .var p {
   position: relative;
-  left: 25px;
+  text-size-adjust: ;
   margin-top: 2vmin;
   text-align: left;
   color: rgb(0, 0, 0);
